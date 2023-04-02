@@ -1,3 +1,3 @@
 # Go-CRUD
 
-## Creating Go backend with CRUD operations
+## Creating Go backend API with CRUD operations
