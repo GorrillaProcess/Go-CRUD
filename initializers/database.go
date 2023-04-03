@@ -13,7 +13,7 @@ var DB *gorm.DB
 
 func ConnectToDb() {
 	//for some reason it needs to load env variables to migrate
-	LoadEnvVars()
+	// LoadEnvVars()
 
 	var err error
 	dsn := os.Getenv("DB_URL")
