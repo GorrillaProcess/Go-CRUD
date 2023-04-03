@@ -2,8 +2,13 @@
 
 ## Creating Go backend API with CRUD operations
 
-#### some important commands 
+#### Some important commands 
 ```
 CompileDaemon -command="./Go-CRUD
 ```
 > We need this command for directly reload the server
+
+| Techologies    
+| -------- 
+| Golang  
+| Postgres  
